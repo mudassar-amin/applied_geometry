@@ -1,0 +1,5 @@
+-DWIN32
+--compiler-flavor=msvc
+-o
+C:/DEV/applied geomtry/AGM/BUILD/demo_DEBUG/hidmanager/moc_defaulthidmanager.cpp
+C:/DEV/applied geomtry/AGM/demo/hidmanager/defaulthidmanager.h

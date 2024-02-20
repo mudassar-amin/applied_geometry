@@ -1,0 +1,124 @@
+# ninja log v5
+2233	2433	6973832748197448	CMakeFiles/QmlDemo.dir/qrc_application.cpp.obj	1d3ded06e725ec56
+6285	12093	6973832845023732	CMakeFiles/QmlDemo.dir/application/main.cpp.obj	76b457f0ab84f294
+244	2231	6973832746332436	CMakeFiles/QmlDemo.dir/hidmanager/moc_hidaction.cpp.obj	2fa4c8e74e727cad
+153	244	6973832726595563	qrc_application.cpp	4d1a22d41dadf6ec
+271	3873	6973832762638819	CMakeFiles/QmlDemo.dir/application/moc_window.cpp.obj	bbaea8b1adc7ae49
+274	2244	6973832746541883	CMakeFiles/QmlDemo.dir/moc_scenario.cpp.obj	8ae850a7657a6d43
+4200	9189	6973832815926484	CMakeFiles/QmlDemo.dir/hidmanager/standardhidmanager.cpp.obj	7d843de455fb3f5d
+11	186	6973832725966846	C:/DEV/applied geomtry/AGM/BUILD/demo_DEBUG/hidmanager/moc_hidmanager.cpp	9ed3eb579bfd5ddf
+264	2254	6973832746531915	CMakeFiles/QmlDemo.dir/application/moc_gmlibwrapper.cpp.obj	8d6f820eb3de707f
+11	186	6973832725966846	hidmanager/moc_hidmanager.cpp	9ed3eb579bfd5ddf
+22	186	6973832725956880	hidmanager/moc_defaulthidmanager.cpp	47f4db122306759
+22	186	6973832725956880	C:/DEV/applied geomtry/AGM/BUILD/demo_DEBUG/hidmanager/moc_defaulthidmanager.cpp	47f4db122306759
+18	183	6973832725907041	C:/DEV/applied geomtry/AGM/BUILD/demo_DEBUG/hidmanager/moc_standardhidmanager.cpp	aacebdef22164010
+35	159	6973832725498105	application/moc_window.cpp	bfb809a4080b3af3
+2434	4200	6973832766079614	CMakeFiles/QmlDemo.dir/hidmanager/hidinput.cpp.obj	3554f1c270b6034f
+35	159	6973832725498105	C:/DEV/applied geomtry/AGM/BUILD/demo_DEBUG/application/moc_window.cpp	bfb809a4080b3af3
+7	159	6973832725577893	C:/DEV/applied geomtry/AGM/BUILD/demo_DEBUG/hidmanager/moc_hidaction.cpp	cfe4e73845132655
+153	244	6973832726595563	C:/DEV/applied geomtry/AGM/BUILD/demo_DEBUG/qrc_application.cpp	4d1a22d41dadf6ec
+4210	11320	6973832837264501	CMakeFiles/QmlDemo.dir/hidmanager/defaulthidmanager.cpp.obj	77b82128b43896b7
+39	176	6973832725767383	moc_scenario.cpp	b8fd9fea6bec1397
+2530	4717	6973832770667341	CMakeFiles/QmlDemo.dir/hidmanager/hidinputevent.cpp.obj	225ad4b2c5d2a34c
+28	175	6973832725787336	application/moc_gmlibwrapper.cpp	5be3f96f7bdc63b2
+267	6285	6973832786839169	CMakeFiles/QmlDemo.dir/application/moc_guiapplication.cpp.obj	f1519fd156899a73
+4283	9039	6973832814430483	CMakeFiles/QmlDemo.dir/application/gmlibwrapper.cpp.obj	2110acc7fe8a2af3
+253	4210	6973832766099556	CMakeFiles/QmlDemo.dir/hidmanager/moc_standardhidmanager.cpp.obj	cdf8f3155e031eb3
+247	4170	6973832765670729	CMakeFiles/QmlDemo.dir/hidmanager/moc_hidmanager.cpp.obj	e9477f62a79f79d9
+25	153	6973832725498105	C:/DEV/applied geomtry/AGM/BUILD/demo_DEBUG/application/moc_fboinsgrenderer.cpp	224376da72a4741e
+14	182	6973832725916995	hidmanager/moc_hidmanagertreemodel.cpp	861dbf2ece344fc7
+4065	8994	6973832813981690	CMakeFiles/QmlDemo.dir/hidmanager/hidmanager.cpp.obj	8bc4350e6bef40bb
+4276	9917	6973832823232034	CMakeFiles/QmlDemo.dir/application/fboinsgrenderer.cpp.obj	2bef99479c58e6de
+257	4283	6973832766797696	CMakeFiles/QmlDemo.dir/hidmanager/moc_defaulthidmanager.cpp.obj	6a96d463d2d8b67
+4718	9988	6973832823950144	CMakeFiles/QmlDemo.dir/application/window.cpp.obj	ac8c89498f164376
+2254	4276	6973832766847564	CMakeFiles/QmlDemo.dir/hidmanager/hidbinding.cpp.obj	e3944178075cc982
+3874	6439	6973832788424935	CMakeFiles/QmlDemo.dir/hidmanager/hidkbmouseinput.cpp.obj	f92dee40ed90d99e
+46	3249	6994781637322014	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3251	4425	6994781640849916	QmlDemo.exe	4e97edf80a2bae5d
+18	183	6973832725907041	hidmanager/moc_standardhidmanager.cpp	aacebdef22164010
+4170	8892	6973832812665207	CMakeFiles/QmlDemo.dir/hidmanager/hidmanagertreemodel.cpp.obj	a802ebcb17702874
+14	182	6973832725916995	C:/DEV/applied geomtry/AGM/BUILD/demo_DEBUG/hidmanager/moc_hidmanagertreemodel.cpp	861dbf2ece344fc7
+32	187	6973832725996772	application/moc_guiapplication.cpp	ffff4947c83fb981
+25	153	6973832725498105	application/moc_fboinsgrenderer.cpp	224376da72a4741e
+260	2530	6973832749204756	CMakeFiles/QmlDemo.dir/application/moc_fboinsgrenderer.cpp.obj	fe31f5386d929753
+250	4063	6973832764593599	CMakeFiles/QmlDemo.dir/hidmanager/moc_hidmanagertreemodel.cpp.obj	ef7819e391e2690e
+39	176	6973832725767383	C:/DEV/applied geomtry/AGM/BUILD/demo_DEBUG/moc_scenario.cpp	b8fd9fea6bec1397
+7	159	6973832725577893	hidmanager/moc_hidaction.cpp	cfe4e73845132655
+2244	4288	6973832766957265	CMakeFiles/QmlDemo.dir/hidmanager/hidaction.cpp.obj	4eb3944ac28c5687
+32	187	6973832725996772	C:/DEV/applied geomtry/AGM/BUILD/demo_DEBUG/application/moc_guiapplication.cpp	ffff4947c83fb981
+4289	11381	6973832837882850	CMakeFiles/QmlDemo.dir/application/guiapplication.cpp.obj	b55e4b0cfc066abf
+28	175	6973832725787336	C:/DEV/applied geomtry/AGM/BUILD/demo_DEBUG/application/moc_gmlibwrapper.cpp	5be3f96f7bdc63b2
+47	5235	6994781767600186	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+5236	6177	6994781771140673	QmlDemo.exe	4e97edf80a2bae5d
+46	3131	6994782948388153	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3132	4150	6994782951654478	QmlDemo.exe	4e97edf80a2bae5d
+50	3072	6994784524741100	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3073	4055	6994784528020660	QmlDemo.exe	4e97edf80a2bae5d
+29	2849	6995009646621982	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+2850	3617	6995009648965374	QmlDemo.exe	4e97edf80a2bae5d
+20	2922	6995013090953267	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+2923	3557	6995013093352509	QmlDemo.exe	4e97edf80a2bae5d
+72	6895	6995651388251821	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+6897	8164	6995651391912521	QmlDemo.exe	4e97edf80a2bae5d
+45	4994	6995651903887344	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+4995	6202	6995651908320969	QmlDemo.exe	4e97edf80a2bae5d
+52	3590	6995653273886678	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3591	4634	6995653277511305	QmlDemo.exe	4e97edf80a2bae5d
+40	4482	6995654255065217	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+4483	5474	6995654258341565	QmlDemo.exe	4e97edf80a2bae5d
+20	4372	6995656718526257	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+4373	5472	6995656721875108	QmlDemo.exe	4e97edf80a2bae5d
+47	3233	6995665263546086	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3235	4210	6995665267080919	QmlDemo.exe	4e97edf80a2bae5d
+36	3956	6995703502741210	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3957	4821	6995703505773096	QmlDemo.exe	4e97edf80a2bae5d
+21	2882	6995723019369406	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+2883	3583	6995723021662213	QmlDemo.exe	4e97edf80a2bae5d
+22	2934	6995725054029172	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+2934	3596	6995725056299090	QmlDemo.exe	4e97edf80a2bae5d
+21	2832	6995727572170024	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+2833	3486	6995727574532582	QmlDemo.exe	4e97edf80a2bae5d
+22	3134	6995727842454163	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3135	3868	6995727845045329	QmlDemo.exe	4e97edf80a2bae5d
+19	2862	6995728800137366	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+2863	3510	6995728802299450	QmlDemo.exe	4e97edf80a2bae5d
+24	3157	6995729407267124	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3158	3843	6995729409667944	QmlDemo.exe	4e97edf80a2bae5d
+42	4253	6995735052205974	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+4254	5308	6995735055846419	QmlDemo.exe	4e97edf80a2bae5d
+50	3071	6995745370124356	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3072	4050	6995745373832376	QmlDemo.exe	4e97edf80a2bae5d
+46	4740	6995861276277850	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+4741	5901	6995861281107256	QmlDemo.exe	4e97edf80a2bae5d
+24	3265	6995861712249769	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3266	3938	6995861714579235	QmlDemo.exe	4e97edf80a2bae5d
+24	4062	6995862330370561	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+4063	4937	6995862333462719	QmlDemo.exe	4e97edf80a2bae5d
+34	4291	6995862867365887	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+4292	5155	6995862870458793	QmlDemo.exe	4e97edf80a2bae5d
+33	3999	6995863205927718	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3999	4921	6995863209680233	QmlDemo.exe	4e97edf80a2bae5d
+48	3038	6998323417908539	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3039	4715	6998323427437548	QmlDemo.exe	4e97edf80a2bae5d
+22	3086	6998325604147751	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3087	3755	6998325606490944	QmlDemo.exe	4e97edf80a2bae5d
+20	2822	6998332242905050	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+2823	3521	6998332245331459	QmlDemo.exe	4e97edf80a2bae5d
+30	2823	6998347539828415	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+2824	3545	6998347541859576	QmlDemo.exe	4e97edf80a2bae5d
+21	3194	6998348194141421	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3195	4165	6998348197332147	QmlDemo.exe	4e97edf80a2bae5d
+43	4126	6998385246285676	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+4127	5177	6998385249892510	QmlDemo.exe	4e97edf80a2bae5d
+18	3228	6998386169913100	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3229	4184	6998386172965087	QmlDemo.exe	4e97edf80a2bae5d
+46	4141	6999079948624628	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+4142	5504	6999079952807788	QmlDemo.exe	4e97edf80a2bae5d
+35	4726	6999080670523561	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+4727	5776	6999080674008318	QmlDemo.exe	4e97edf80a2bae5d
+43	3865	6999081846385091	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+3866	4837	6999081849855878	QmlDemo.exe	4e97edf80a2bae5d
+40	4119	6999082815290005	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+4120	4998	6999082818362464	QmlDemo.exe	4e97edf80a2bae5d
+38	5336	6999083896932357	CMakeFiles/QmlDemo.dir/scenario.cpp.obj	ad94158a685a0057
+5337	6512	6999083901679606	QmlDemo.exe	4e97edf80a2bae5d

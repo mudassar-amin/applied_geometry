@@ -1,0 +1,5 @@
+-DWIN32
+--compiler-flavor=msvc
+-o
+C:/DEV/applied geomtry/AGM/BUILD/demo_DEBUG/application/moc_gmlibwrapper.cpp
+C:/DEV/applied geomtry/AGM/demo/application/gmlibwrapper.h
